@@ -1,0 +1,27 @@
+{
+  "name": "magical-gh-pages",
+  "version": "0.0.1",
+  "description": "Update your Github Pages using the info already in your package.json",
+  "bin": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmhilton/magical-gh-pages.git"
+  },
+  "keywords": [
+    "gh-pages",
+    "publish",
+    "deploy"
+  ],
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/wmhilton/magical-gh-pages/issues"
+  },
+  "homepage": "https://github.com/wmhilton/magical-gh-pages#readme",
+  "dependencies": {
+    "shelljs": "^0.7.3"
+  }
+}
